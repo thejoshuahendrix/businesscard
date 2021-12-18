@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 console.log(`
 Hello! I am Joshua Hendrix, Software Developer
 Portfolio: https://hendrixportfolio.herokuapp.com/
