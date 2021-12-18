@@ -1,0 +1,8 @@
+{
+  "name": "thejoshuahendrix",
+  "version": "1.0.0",
+  "description": "A terminal business card for Joshua Hendrix",
+  "main": "index.js",
+  "author": "Joshua Hendrix",
+  "license": "MIT"
+}
